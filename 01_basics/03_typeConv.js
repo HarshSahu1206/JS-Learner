@@ -16,7 +16,7 @@
 
 // let strtoInt = Number(sc)
 
-// console.log(typeof strtoInt) //now our sting is 56abc but still it gets converted too number
+// console.log(typeof strtoInt) //now our sting is 56abc but still it gets converted too NaN
 // console.log(strtoInt) // but its value is stored as NaN (Not a Number) because it cannot be converted to a valid number.
 
 // let sc = null

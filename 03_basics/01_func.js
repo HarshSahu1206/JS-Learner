@@ -48,6 +48,12 @@ function calcCartPrice(...num1){
 
 //console.log(calcCartPrice(200,500,152,120));
 
+// function calcCartPrice(...prices) {
+//     return prices.reduce((total, price) => total + price, 0);
+// }
+
+// console.log(calcCartPrice(200, 500, 152, 120)); // 972
+
 const user = {
     username : "Harsh",
     price : "125"
